@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://agnira.github.io/bnspt_web_pub/sitemap-index.xml
